@@ -9,10 +9,10 @@
     •	Handling Missing Values and Duplicates
     •	DataFrame Manipulation
     •	Data Transformation
-  ## DATA PROCESSING
+  #### DATA PROCESSING
     •	Processing Numerical Format
     •	Processing String Format
     •	Processing DateTime Format
-  •	Visualize Your Data
+    •	Visualize Your Data
 
   All materials used in this project were provided by the course instructor.
